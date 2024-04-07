@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @simarjeet7355 
+- 👀 I’m interested in Software Development and AI/ML Engineering.
+- 🌱 I’m currently learning DSA , Python and Front end development.
+- 💞️ I’m looking to collaborate on front enf projects.
+- 📫 How to reach me @simxr.png on instagram.
+- ⚡ Fun fact: I'm good UI/UX designer.
